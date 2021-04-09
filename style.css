@@ -1,0 +1,387 @@
+body{
+    color: white;
+    background-color: black;
+ }
+ .th{
+     color: black;
+     background-color: rgb(215, 165, 236);
+ }
+ .tr1{
+    color: white;
+   background-color: rgb(196, 119, 230);
+}
+ .tr2{
+    color: white;
+   background-color: rgb(172, 81, 211);
+}
+.tr3{
+    color: white;
+   background-color: rgb(128, 39, 167);
+}
+.tr4{
+    color: white;
+   background-color: rgb(97, 21, 129);
+}
+.tr5{
+    color: white;
+   background-color: rgb(70, 15, 94);
+}
+.tr6{
+    color: white;
+   background-color: rgb(52, 7, 71);
+}
+.tr7{
+    color: white;
+   background-color: rgb(17, 7, 78);
+}
+.tr8{
+    color: white;
+    background-color: rgb(17, 7, 78);
+}
+.tr9{
+    color: white;
+    background-color: rgb(10, 10, 116);
+}
+.tr10{
+    color: white;
+    background-color: rgb(10, 10, 116);
+   
+}
+.tr11{
+    color: white;
+    background-color: rgb(9, 33, 167);
+}
+.tr12{
+    color: white;
+    background-color: rgb(9, 33, 167);
+}
+.tr13{
+    color: white;
+    background-color: rgb(28, 121, 228);
+   
+}
+.tr14{
+    color: black;
+    background-color: rgb(103, 170, 247);
+   
+}
+.tr15{
+    color: black;
+    background-color: rgb(136, 184, 238);
+}
+.tr16{
+    color: black;
+   background-color: rgb(178, 233, 164);
+}
+.tr17{
+    color: black;
+   background-color:rgb(156, 223, 101) ;
+}
+.tr18{
+    color: black;
+   background-color: rgb(138, 228, 78);
+}
+.tr19{
+    color: black;
+   background-color: rgb(23, 214, 125);
+}
+.tr20{
+    color: white;
+    background-color: rgb(6, 179, 98);
+}
+.tr21{
+    color: black;
+   background-color: rgb(243, 252, 197);
+}
+.tr22{
+    color: black;
+   background-color: rgb(248, 247, 233);
+}
+.tr23{
+    color: black;
+   background-color: rgb(252, 252, 122);
+}
+.tr24{
+    color: black;
+   background-color: rgb(252, 198, 98);
+}
+.tr25{
+    color: black;
+   background-color: rgb(243, 162, 41);
+}
+.tr26{
+    color: black;
+   background-color: rgb(235, 114, 33);
+}
+.tr27{
+    color: black;
+   background-color: rgb(238, 90, 37);
+}
+.tr28{
+    color: black;
+   background-color: orangered;
+}
+.tr29{
+    color: white;
+   background-color: rgb(224, 55, 3);
+}
+.tr30{
+    color: white;
+   background-color: brown;
+}
+.tr31{
+    color: white;
+   background-color: darkred;
+}
+.tr32{
+    color: white;
+   background-color: rgb(194, 6, 6);
+}
+.tr33{
+    color: white;
+   background-color: rgb(236, 15, 15);
+}
+.tr34{
+    color: white;
+   background-color: red;
+}
+.tr35{
+    color: black;
+   background-color: orangered;
+}
+.tr36{
+    color: black;
+   background-color: rgb(238, 90, 37);
+}
+.tr37{
+    color: black;
+   background-color: rgb(235, 114, 33);
+}
+.tr38{
+    color: black;
+    background-color: rgb(243, 162, 41);
+}
+.tr39{
+    color: black;
+    background-color: rgb(252, 198, 98);
+}
+.tr40{
+    color: black;
+   background-color: rgb(252, 252, 122);
+}
+.tr41{
+    color: black;
+   background-color: rgb(243, 252, 197);
+}
+.tr42{
+    color: black;
+   background-color: rgb(243, 252, 197);
+}
+.tr43{
+    color: black;
+   background-color: rgb(243, 252, 197);
+}
+.tr44{
+    color: black;
+   background-color: rgb(243, 252, 197);
+}
+.tr45{
+    color: black;
+   background-color: rgb(243, 252, 197);
+}
+.tr46{
+    color: black;
+   background-color: rgb(243, 252, 197);
+}
+.tr47{
+    color: black;
+   background-color: rgb(243, 252, 197);
+}
+.tr48{
+    color: black;
+   background-color: rgb(197, 245, 119);
+}
+.tr49{
+    color: black;
+    background-color: rgb(138, 228, 78);
+}
+.tr50{
+    color: black;
+   background-color:rgb(156, 223, 101) ;
+}
+.tr51{
+    color: black;
+    background-color: rgb(178, 233, 164);
+}
+.tr52{
+    color: black;
+    background-color: rgb(136, 184, 238);
+}
+.tr53{
+    color: black;
+    background-color: rgb(84, 159, 245);
+}
+.tr54{
+    color: white;
+    background-color: rgb(28, 121, 228);
+}
+.tr55{
+    color: white;
+    background-color: rgb(9, 33, 167);
+}
+.tr56{
+    color: white;
+    background-color: rgb(5, 23, 128);
+}
+.tr57{
+    color: white;
+    background-color: rgb(10, 10, 116);
+}
+.tr58{
+    color: white;
+    background-color: rgb(17, 7, 78);
+}
+.tr59{
+    color: white;
+   background-color: rgb(17, 7, 78);
+}
+.tr60{
+    color: white;
+   background-color: rgb(52, 7, 71);
+}
+.tr61{
+    color: white;
+   background-color: rgb(70, 15, 94);
+}
+.tr62{
+    color: white;
+   background-color:  rgb(70, 15, 94);
+}
+.tr63{
+    color: white;
+   background-color:  rgb(70, 15, 94);
+}
+.tr64{
+    color: white;
+   background-color: rgb(97, 21, 129);
+}
+.tr65{
+    color: white;
+   background-color:  rgb(128, 39, 167);
+}
+.tr66{
+    color: black;
+   background-color: rgb(172, 81, 211);
+}
+.tr67{
+    color: black;
+   background-color: rgb(172, 81, 211);
+}
+.tr68{
+    color: black;
+   background-color:   rgb(196, 119, 230);
+}
+.tr69{
+    color: black;
+   background-color: rgb(215, 165, 236);
+}
+.tr70{
+    color: black;
+   background-color:rgb(215, 165, 236);
+}
+.r41c1{
+    background-color: rgb(245, 207, 225);
+}
+.r42c1{
+    background-color: rgb(245, 207, 225);
+}
+.r43c1{
+    background-color: rgb(245, 207, 225);
+}
+.r44c1{
+    background-color: rgb(245, 207, 225);
+}
+.r45c1{
+    background-color: rgb(245, 207, 225);
+}
+.r46c1{
+    background-color: rgb(245, 207, 225);
+}
+.r47c1{
+    background-color: rgb(245, 207, 225);
+}
+.r41c2{
+    background-color: rgb(238, 177, 206);
+}
+.r42c2{
+    background-color: rgb(238, 177, 206);
+}
+.r43c2{
+    background-color: rgb(238, 177, 206);
+}
+.r44c2{
+    background-color: rgb(238, 177, 206);
+}
+.r45c2{
+    background-color: rgb(238, 177, 206);
+}
+.r46c2{
+    background-color: rgb(238, 177, 206);
+}
+.r47c2{
+    background-color: rgb(238, 177, 206);
+}
+
+.r41c3{
+    background-color: rgb(236, 128, 169);
+}
+.r42c3{
+    background-color: rgb(236, 128, 169);
+}
+.r43c3{
+    background-color: rgb(236, 128, 169);
+}
+.r44c3{
+    background-color: rgb(236, 128, 169);
+}
+.r45c3{
+    background-color: rgb(236, 128, 169);
+}
+.r46c3{
+    background-color: rgb(236, 128, 169);
+}
+.r47c3{
+    background-color: rgb(236, 128, 169);
+}
+
+.r41c4{
+    color: white;
+    background-color: rgb(143, 7, 52);
+}
+.r42c4{
+    color: white;
+    background-color: rgb(143, 7, 52);
+}
+.r43c4{
+    color: white;
+    background-color: rgb(143, 7, 52);
+}
+.r44c4{
+    color: white;
+    background-color: rgb(143, 7, 52);
+}
+.r45c4{
+    color: white;
+    background-color: rgb(143, 7, 52);
+}
+.r46c4{
+    color: white;
+    background-color: rgb(143, 7, 52);
+}
+.r47c4{
+    color: white;
+    background-color: rgb(143, 7, 52);
+}
+
+
+
